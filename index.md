@@ -48,6 +48,7 @@ and submit a pull request.
 | [PyDERASN](http://pyderasn.cypherpunks.ru/) | Python ASN.1 DER library | [2018-02-14](https://git.cypherpunks.ru/cgit.cgi/pyderasn.git/commit/?id=54876436a23f14951f2e6353e9072c9a098b35b4) |
 | [smenu](https://github.com/p-gen/smenu) | Terminal selection filter | [2018-02-05](https://github.com/p-gen/smenu/commit/70d3ee5a328230dff3b744b2f0ca7ef20ecb530e) |
 | [Snow](https://github.com/mortie/snow) | Testing library for C | [2018-01-24](https://github.com/mortie/snow/commit/aadbbd375e03ec6000e23d817d2bd722b417296f) |
+| [Karaffe](https://github.com/nokok/Karaffe) | Programming Language | [2018-06-19](https://github.com/nokok/Karaffe/commit/0492f4dd02f26fb88420fff0d28aeccac1c3e058) |
 {: rules="groups"}
 
 ## Disabling color in software not supporting `NO_COLOR`
